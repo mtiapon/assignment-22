@@ -1,0 +1,86 @@
+
+
+body {
+	font-family: 'Mali', cursive;
+	background-color: green;
+	height: 100vh;
+	background-size: cover;
+	background-position: center;
+    
+
+}
+
+.login-page{
+	width:360px;
+	padding:10% 0 0;
+	margin: auto;
+}
+
+.form {
+    position: relative;
+    background: rgba(190, 191, 197, 0.19);
+    padding: 50px;
+    height: 150px;
+    width: 400px;
+    border: aquamarine;
+    box-sizing: content-box;
+    background-image: initial;
+    padding: 0px;
+    margin: inherit;
+}
+}
+.form-input{
+	font-family: sans-serif;
+	outline: 1;
+	background: wheat;
+	width: 100%;
+	border: 0;
+	margin: 0 0 15px;
+	padding: 15px;
+	box-sizing: border-box;
+	font-size: 14px;
+}
+.form-control {
+    height: 30px;
+    box-sizing: content-box;
+}
+.form-btn{
+	font-family: sans-serif;
+	text-transform: uppercase;
+	outline:0;
+	background:red;
+	width:100%;
+	border:0;
+	padding:15px;
+	color:#ffffff;
+	font-size: 14px;
+	cursor:pointer;
+
+}
+.message a {
+    color: #4caf50;
+    text-decoration: solid;
+    width: 150px;
+    height: 250px;
+    font-size: large;
+    font-family: roboto,sans-serif;
+    font-style: normal;
+    margin: auto;
+    padding: 75px;
+}
+
+
+
+.btn {
+    background-color: #247575;
+    height: 30px;
+    width: fit-content;
+    margin: 15px;
+    padding: 2vh;
+} 
+
+.message p{
+    text-align: left;
+    color: wheat;
+    margin: auto;
+}  

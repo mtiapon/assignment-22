@@ -1,0 +1,76 @@
+* {
+	margin: 0px
+}
+
+body {
+	font-family: 'B612 Mono', monospace;
+	background:url(../img/frontpic.jpeg);
+	background-repeat: no-repeat;
+	background-size: cover;
+
+
+}
+
+.container {
+	width: 1140px;
+	margin: 0px auto;
+}
+
+.login-section {
+    margin: 5% 52%;
+    background-color:black;
+    padding: 200px;
+    padding:0 20px;
+}
+}
+.login-section img{
+	width: 150px;
+	padding: 10%
+	margin: 0 auto;
+
+}
+.login-section h1 {
+    width: 190px;
+    color: wheat;
+    font-size: large;
+    margin: 0px auto;
+    position: relative;
+    text-align: left;
+}
+.form-control {
+    width: 4opx;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+.btn {
+	background:green;
+	color: green;
+	padding:10px 20px;
+	margin: 0 auto;
+	display: block;
+	border: none;
+	text-transform: uppercase;
+    color: white;
+    transition: 0.8s ease;
+
+
+}
+
+a {
+    width: 200px;
+    height: 1020px;
+    margin: 5% auto;
+    font-size: large;
+    font-style: normal;
+    font-stretch: condensed;
+    word-break: unset;
+    font-family: "roboto",sans-serif;
+    text-decoration-line: none;
+    scroll-padding-left: initial;
+    padding: 20%;
+    color: rgb(255,255,255);
+}
+.btn:hover {
+	cursor: pointer;
+	box-shadow: 3px 4px 5px;
+}
